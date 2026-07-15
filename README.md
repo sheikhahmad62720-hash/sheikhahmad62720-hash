@@ -47,9 +47,3 @@ I am a results-driven Full Stack Developer passionate about engineering fast, se
 2.  **Performance & Security:** Optimizing queries (indexing, lazy loading) and securing routes is non-negotiable.
 3.  **Scalable UI/UX:** Frontend is the bridge between the machine and the user; it must be fast, responsive, and intuitive.
 
----
-
-### 📫 Let's Connect!
-
-- 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) *(Apna LinkedIn username add karein)*
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com) *(Apna email address add karein)*
