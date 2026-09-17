@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Ahmad 👋
+# Hi, I'm Ahmad 👋
 
 ### Full Stack Developer | Backend Specialist & Frontend Practitioner
 
