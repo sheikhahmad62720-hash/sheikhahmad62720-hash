@@ -33,10 +33,3 @@ Working on production applications including insurance platforms, HR and doctor 
 
 **Tools:** Git · GitHub · Postman · Figma
 
----
-
-## 📫 Let's Connect
-
-* **Email:** [sheikhahmad62720@gmail.com](mailto:sheikhahmad62720@gmail.com)
-* **LinkedIn:** [Muhammad Ahmad](https://www.linkedin.com/in/muhammad-ahmad-85135a28b/)
-* **GitHub:** [sheikhahmad62720-hash](https://github.com/sheikhahmad62720-hash)
